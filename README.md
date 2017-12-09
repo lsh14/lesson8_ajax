@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 8, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Lance Hamic)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project was to design an application where you could type in any movie and instantly get results showing a lot of data about that movie, while also learning about ajax.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://lsh14.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (JSON is JavaScript Object Notation. It is a syntax for storing and exchanging data, and it is also a subset of JavaScript. It is a simple, common representation of data.)
+2. (Ajax allows client web pages to quickly interact and exchange data with a web server without reloading the entire web page. It relies on programming languages such as JavaScript.)
+3. (A synchronous request stops the processing of the JavaScript code until a response is returned from the server. It is easier to handle, but the script will not continue processing until the response is received.)
